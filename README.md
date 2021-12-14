@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surbhidey
-- 👀 I’m interested in learning new Technology and managing data.
-- 🌱 I’m currently learning Program Management and building skills to manage a complete program
+- 👀 I’m interested in learning new Technology.
+- 🌱 I’m currently learning Program Management and building skills to code
 - 💞️ I’m looking to collaborate on building a data insight for all the GCP Programs.
 - 📫 How to reach me at surbhdey@github.com
 
